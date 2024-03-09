@@ -1,0 +1,3 @@
+Config = {
+    Permission = "staff.chattitle"
+}
